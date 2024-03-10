@@ -27,7 +27,7 @@ Visualizing ratings, genres, and trends to derive insights into viewer preferenc
 
 By performing these steps, the data was prepared, transformed, and organized in Power BI to facilitate meaningful analysis and visualization, leading to the creation of insightful dashboards and reports.
 
-[Click here](https://github.com/AmaPrecious/NETFLIX_ANALYSIS/blob/main/Task%201-%20Netflix%20TV%20Shows%20and%20Movies.csv)to gain access to the raw dataset.
+[Click here](https://github.com/AmaPrecious/NETFLIX_ANALYSIS/blob/main/Task%201-%20Netflix%20TV%20Shows%20and%20Movies.csv) to gain access to the raw dataset.
 
 ## Visualization
 
@@ -62,7 +62,7 @@ By performing these steps, the data was prepared, transformed, and organized in 
 #### Age Certification:
 - R rated movies had the highest votes: 42,344,416
 
-Click here]([)](https://github.com/AmaPrecious/NETFLIX_ANALYSIS/blob/main/Netflix_Analysis.pbix)to gain access to the interactive dashboard.
+[Click here](https://github.com/AmaPrecious/NETFLIX_ANALYSIS/blob/main/Netflix_Analysis.pbix) to gain access to the interactive dashboard.
 
 ## Conclusion:
 
